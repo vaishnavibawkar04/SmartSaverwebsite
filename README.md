@@ -2,7 +2,6 @@
 
 It is a personal finance web application built using Flask. It helps users manage their expenses, visualize spending, and get saving ideas and trading tips based on salary.
 
----
 
 ## Features
 
@@ -37,3 +36,7 @@ python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 python app.py
+
+
+
+
