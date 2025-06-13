@@ -30,7 +30,7 @@ It is a personal finance web application built using Flask. It helps users manag
 ## How to Run Locally
 
 
-git clone https://github.com/YOUR_USERNAME/smartsaver.git
+git clone https://github.com/vaishnavibawkar04/smartsaverwebsite.git
 cd smartsaver
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
