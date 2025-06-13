@@ -1,5 +1,4 @@
 # SmartSaverwebsite
-# SmartSaver
 
 It is a personal finance web application built using Flask. It helps users manage their expenses, visualize spending, and get saving ideas and trading tips based on salary.
 
